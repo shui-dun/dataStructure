@@ -1,4 +1,4 @@
-package com.sd.multithread;
+package com.sd.ipc;
 
 import java.util.Scanner;
 import java.util.concurrent.ExecutorService;
